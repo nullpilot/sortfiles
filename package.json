@@ -15,6 +15,7 @@
   "dependencies": {
     "dayjs": "^1.8.15",
     "js-yaml": "^3.13.1",
+    "terminal-kit": "^1.29.3",
     "yargs": "^13.3.0"
   }
 }
